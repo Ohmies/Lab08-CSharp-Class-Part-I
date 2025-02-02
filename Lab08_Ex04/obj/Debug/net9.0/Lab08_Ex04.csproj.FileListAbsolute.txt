@@ -1,0 +1,15 @@
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/bin/Debug/net9.0/Lab08_Ex04
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/bin/Debug/net9.0/Lab08_Ex04.deps.json
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/bin/Debug/net9.0/Lab08_Ex04.runtimeconfig.json
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/bin/Debug/net9.0/Lab08_Ex04.dll
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/bin/Debug/net9.0/Lab08_Ex04.pdb
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.AssemblyInfo.cs
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.sourcelink.json
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.dll
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/refint/Lab08_Ex04.dll
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.pdb
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/Lab08_Ex04.genruntimeconfig.cache
+/Users/macbook/Documents/GitHub/KMITL_OOP/Lab08-CSharp-Class-Part-I/Lab08_Ex04/obj/Debug/net9.0/ref/Lab08_Ex04.dll
